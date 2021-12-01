@@ -4,4 +4,3 @@
 * [Mathamatical Analysis](ROT13-math.md)
 * [Computer Code](ROT13-Code.md)
 * [Final Analysis](ROT13-Analysis)
-
