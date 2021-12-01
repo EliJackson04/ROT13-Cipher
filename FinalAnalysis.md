@@ -3,3 +3,4 @@ Because there are 26 letters (2×13) in the basic Latin alphabet, ROT13 is its o
 the same action can be used for encoding and decoding. 
 The algorithm provides virtually no cryptographic security, and is often cited as a canonical example of weak encryption.[1]
 ROT13 is used in online forums as a means of hiding spoilers, punchlines, puzzle solutions, and offensive materials from the casual glance.
+.
