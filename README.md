@@ -1,5 +1,4 @@
 # ROT13-Cipher
-# ROT13-Cipher
 * [Historical Context](ROT13-History.md)
 * [Mechanics](ROT13-Mechanics.md)
 * [Mathamatical Analysis](ROT13-math.md)
